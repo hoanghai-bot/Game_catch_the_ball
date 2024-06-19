@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|d:\\tutorial\\tutorial-unity\\prototype\\create with code\\prototype 2\\assets\\modthecube\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\modthecube\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|d:\\tutorial\\tutorial-unity\\prototype\\create with code\\prototype 2\\assets\\challenge 2\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\assets\\challenge 2\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\assets\\challenge 2\\scripts\\destroyoutofboundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\destroyoutofboundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\assets\\challenge 2\\scripts\\detectcollisionsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\detectcollisionsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\assets\\scripts\\destroyoutofbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\assets\\scripts\\detectcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\ModTheCube\\Cube.cs",
+              "RelativeDocumentMoniker": "Assets\\ModTheCube\\Cube.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\ModTheCube\\Cube.cs*",
+              "RelativeToolTip": "Assets\\ModTheCube\\Cube.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:24:53.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:34:35.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestroyOutOfBoundsX.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:39:47.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetectCollisionsX.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:38:14.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:35:35.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DestroyOutOfBounds.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:09:50.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetectCollisions.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Scripts\\DetectCollisions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DetectCollisions.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Scripts\\DetectCollisions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DetectCollisions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:16:56.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:35:20.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:52:20.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoveForward.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveForward.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 2\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveForward.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:01:57.062Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
